@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/EPrints-QueryBuilder.t
+lib/EPrints/QueryBuilder.pm
