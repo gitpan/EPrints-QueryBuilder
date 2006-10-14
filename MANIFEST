@@ -4,3 +4,4 @@ MANIFEST
 README
 t/EPrints-QueryBuilder.t
 lib/EPrints/QueryBuilder.pm
+META.yml                                 Module meta-data (added by MakeMaker)
